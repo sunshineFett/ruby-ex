@@ -1,3 +1,3 @@
 source 'https://rubygems.org'
-gem 'rack'
+gem 'rack', '>= 2.2.8.1'
 gem 'puma'
